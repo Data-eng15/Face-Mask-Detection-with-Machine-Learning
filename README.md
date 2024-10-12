@@ -58,5 +58,7 @@ The dataset used in this project consists of two classes:
 1. **With Mask**: Images of people wearing masks.
 2. **Without Mask**: Images of people without masks.
 
-You can download a dataset from [Kaggle](https://www.kaggle.com) or use a custom dataset. Make sure the data is stored in the following structure:
+
+This `README.md` covers the essential elements for a face mask detection project, from installation to usage and licensing. You can adjust it based on the specifics of your implementation.
+
 
