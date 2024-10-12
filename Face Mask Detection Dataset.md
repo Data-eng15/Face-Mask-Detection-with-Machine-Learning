@@ -19,13 +19,6 @@ Each folder contains several JPEG images that can be used for training, validati
 - **Resolution**: Images are in varying resolutions but can be resized to a standard size (e.g., 128x128 or 224x224) for model training.
 - **Format**: JPEG, PNG
 
-## Sample Images
-
-Here are a few sample images from the dataset:
-
-- **With Mask**: ![with_mask_sample](path_to_sample_image)
-- **Without Mask**: ![without_mask_sample](path_to_sample_image)
-
 ## Usage
 
 The dataset can be used for:
